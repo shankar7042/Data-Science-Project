@@ -47,10 +47,10 @@ hist(bjp.score$score)
 hist(cong.score$score)
 
 #All the required keys for the twitter api access
-consumerKey <- '784a9HVURzL9eczDAHOvxEtdr'
-consumerSecret <- 'yEdq9Ai5CI7MJAoFiAUrNb2AqyEH68245jSUWbi8nScM7GyG8I'
-accessToken <- '1115313543912542208-1VFO5e13Sjf5extxO6SE9yt56v0NRb'
-accessTokenSecret <- 'FbV5mUc2mHEqqv9Rq82Qe6UB5dh7e1RQADVgoIRgte72O'
+consumerKey <- 'xxxx'
+consumerSecret <- 'xxxx'
+accessToken <- 'xxxx'
+accessTokenSecret <- 'xxxx'
 
 #connecting and authrization to the twitter api
 setup_twitter_oauth(consumerKey,consumerSecret,accessToken,accessTokenSecret)
